@@ -1,5 +1,8 @@
 _repo: Havoc_2287
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Oppenheim, E. Phillips (Edward Phillips)
@@ -13,6 +16,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/E._Phillips_Oppenheim
 description: The secret world of international politics where spies, journalists,
   millionaires, beautiful adventuresses and crooks mingle.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2287#Havoc
 gutenberg_issued: '2000-08-01'
 gutenberg_type: Text
 identifiers:
